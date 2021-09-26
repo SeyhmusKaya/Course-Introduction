@@ -1,0 +1,3 @@
+user-agent: *
+disallow: /admin/
+Sitemap: http://www.demegitimkurumlari.com/sitemap.xml
